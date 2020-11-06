@@ -1,0 +1,23 @@
+{% macro raw(value) %}
+{{ value }}
+{% endmacro %}
+
+{% macro text(value) %}
+<p>{{ value | safe }}</p>
+{% endmacro %}
+
+{% macro subhead(value) %}
+<h3>{{ value | safe }}</h3>
+{% endmacro %}
+
+{% macro img(value) %}
+<img src="img/{{ value.filename }}" alt="{{ value.alt }}" class="img-fluid">
+{% endmacro %}
+
+{% macro list(value) %}
+<ul>
+  {% for item in value %}
+  <li>{{ item.value | safe }}</li>
+  {% endfor %}
+</ul>
+{% endmacro %}

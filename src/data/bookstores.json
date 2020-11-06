@@ -1,0 +1,94 @@
+{
+  "stores": [
+    {
+      "name": "BookPeople",
+      "slug": "bookpeople",
+      "url": "https://www.bookpeople.com/",
+      "address": "603 N Lamar Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78703
+    },
+    {
+      "name": "Resistencia Bookstore",
+      "slug": "resistencia-books",
+      "url": "https://www.resistenciabooks.com/",
+      "address": "2000 Thrasher Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78741
+    },
+    {
+      "name": "Malvern Books",
+      "slug": "malvern-books",
+      "url": "http://malvernbooks.com/",
+      "address": "613 W 29th St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78705
+    },
+    {
+      "name": "Monkeywrench Books",
+      "slug": "monkeywrench",
+      "url": "https://www.monkeywrenchbooks.org/",
+      "address": "110 N Loop Blvd E",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78751
+    },
+    {
+      "name": "Brave New Books",
+      "slug": "brave-new-books",
+      "url": "https://www.facebook.com/bravenewbookstore/",
+      "address": "1904 Guadalupe St # B",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78705
+    },
+    {
+      "name": "BookWoman",
+      "slug": "bookwoman",
+      "url": "https://www.ebookwoman.com/",
+      "address": "5501 N Lamar Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78751
+    },
+    {
+      "name": "Balcones Books",
+      "slug": "balcones-books",
+      "url": "https://balconesbooks.com/",
+      "address": "5430, 3313 Hancock Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78731
+    },
+    {
+      "name": "Recycled Reads",
+      "slug": "recycled-reads",
+      "url": "http://library.austintexas.gov/recycled-reads",
+      "address": "5335 Burnet Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78756
+    },
+    {
+      "name": "South Congress Books",
+      "slug": "south-congress-books",
+      "url": "https://southcongressbooks.com/",
+      "address": "1608 S Congress Ave",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78704
+    },
+    {
+      "name": "12th Street Books",
+      "slug": "12th-street-books",
+      "url": "https://www.12thstreetbooks.com/",
+      "address": "827 W 12th St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78701
+    }
+  ]
+}

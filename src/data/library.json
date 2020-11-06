@@ -1,0 +1,70 @@
+{
+  "books": [
+    {
+      "slug": "the-clown",
+      "title": "The Clown",
+      "author": "Heinrich Böll",
+      "blurb": "The Clown (German: Ansichten eines Clowns, lit. “Opinions of a clown”) is a 1963 novel by West German writer Heinrich Böll."
+    },
+    {
+      "slug": "the-shipping-news",
+      "title": "The Shipping News",
+      "author": "Annie Proulx",
+      "blurb": "The Shipping News is a novel by American author E. Annie Proulx and published by Charles Scribner's Sons in 1993. It won the <a href=\"https://www.pulitzer.org/winners/e-annie-proulx\">Pulitzer Prize</a>, the <a href=\"https://www.nationalbook.org/books/shipping-news/\">U.S. National Book Award</a>, as well as other awards. It was adapted as a film of the same name which was released in 2001."
+    },
+    {
+      "slug": "the-hearing-trumpet",
+      "title": "The Hearing Trumpet",
+      "author": "Leonora Carrington",
+      "blurb": "The Hearing Trumpet is a story by Leonora Carrington about 92-year-old Marian Leatherby, who is given the gift of a hearing trumpet only to discover that what her family is saying is that she is to be committed to an institution."
+    }
+  ],
+  "example_prose": [
+    {
+      "type": "text",
+      "value": "This is an example of a multi-paragraph intro formatted in a Google Doc to be used for <a href=\"http://archieml.org/#demo\">ArchieML</a>. What is said here is not that important, but the structure of this text in the Google Doc is."
+    },
+    {
+      "type": "subhead",
+      "value": "This is subhead"
+    },
+    {
+      "type": "text",
+      "value": "This is the second paragraph of the text to show how to loop over the text."
+    },
+    {
+      "type": "text",
+      "value": "# this is a list embedded in the text"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "type": "text",
+          "value": "First list item."
+        },
+        {
+          "type": "text",
+          "value": "Second list item."
+        }
+      ]
+    }
+  ],
+  "example_image": [
+    {
+      "type": "text",
+      "value": "This is another freeform array of text with multiple paragraphs but in this case there is an image call between two paragraphs of the text."
+    },
+    {
+      "type": "img",
+      "value": {
+        "filename": "the-clown.jpg",
+        "alt": "the clown"
+      }
+    },
+    {
+      "type": "text",
+      "value": "This is the second graph of text. The image above will be placed between the two graphs using an image macro in the processors.njk file."
+    }
+  ]
+}

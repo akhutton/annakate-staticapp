@@ -1,0 +1,58 @@
+{
+  "name": "icj-project-template",
+  "version": "1.1.0",
+  "description": "A development rig for Intro to Coding for Journalists, a class in the School of Journalism, Moody College of Communication, University of Texas at Austin.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utdata/icj-project-template.git"
+  },
+  "keywords": [],
+  "author": "Christian McDonald <christian.mcdonald@utexas.edu>",
+  "license": "ISC",
+  "devDependencies": {
+    "@newswire/doc-to-archieml": "^1.0.0",
+    "@newswire/sheet-to-data": "^1.0.0",
+    "acorn": "^7.4.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.26.12",
+    "caniuse-lite": "^1.0.30001125",
+    "cssnano": "^4.1.10",
+    "del": "^3.0.0",
+    "eslint": "^5.16.0",
+    "fancy-log": "^1.3.3",
+    "googleapis": "^49.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-data": "^1.3.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-load-tasks": "^0.8.4",
+    "gulp-newer": "^1.4.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^6.0.1",
+    "is-valid-glob": "^1.0.0",
+    "journalize": "^2.4.0",
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.0"
+  }
+}
