@@ -2,7 +2,7 @@
 <html lang="en">
   <!-- A Intro to Coding for Journalists class project -->
   <head>
-    <title>{% block page_title %}Default title{% endblock %}</title>
+    <title>Pirate Cove | {% block page_title %}Default title{% endblock %}</title>
     <meta name="description" content="{% block page_description %}Default description{% endblock %}">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -11,6 +11,8 @@
   </head>
   <body>
     {% include "_includes/nav.njk" %}
+
+    {% include "_includes/jumbotron.njk" %}
 
     {% block content %}{% endblock %}
 
