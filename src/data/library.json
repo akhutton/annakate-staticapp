@@ -19,10 +19,30 @@
       "blurb": "The Hearing Trumpet is a story by Leonora Carrington about 92-year-old Marian Leatherby, who is given the gift of a hearing trumpet only to discover that what her family is saying is that she is to be committed to an institution."
     }
   ],
+  "example_multigraph": [
+    {
+      "name": "Matt’s El Rancho",
+      "address": "2613 S Lamar Blvd, Austin, TX 78704",
+      "description": [
+        {
+          "type": "text",
+          "value": "Matt Martinez started his career in 1923 at the age of six selling tamales from a wooden pushcart by the Texas Capitol."
+        },
+        {
+          "type": "text",
+          "value": "Matt & Janie opened El Rancho in 1952 on East 1st Street in downtown Austin with no employees and seating for 40.   Matt worked the front of the house and Janie made everything from scratch in the kitchen."
+        },
+        {
+          "type": "text",
+          "value": "Today the South Lamar restaurant seats more than 500.  El Rancho still makes everything from scratch.  Our in house tortilla factory grinds Non-GMO corn daily to make the freshest corn tortillas and chips you can find.   Our famous Margarita’s are made with fresh squeezed lime juice."
+        }
+      ]
+    }
+  ],
   "example_prose": [
     {
       "type": "text",
-      "value": "This is an example of a multi-paragraph intro formatted in a Google Doc to be used for <a href=\"http://archieml.org/#demo\">ArchieML</a>. What is said here is not that important, but the structure of this text in the Google Doc is."
+      "value": "This is the first paragraph of a multi-paragraph intro formatted in a Google Doc to be used for <a href=\"http://archieml.org/#demo\">ArchieML</a> that includes . What is said here is not that important, but the structure of this text in the Google Doc is."
     },
     {
       "type": "subhead",

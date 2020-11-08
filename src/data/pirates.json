@@ -1,0 +1,52 @@
+{
+  "ships": [
+    {
+      "ship_name": "Queen Anne’s Revenge",
+      "captain": "Edward \"Blackbeard\" Teach",
+      "blurb": "Edward \"Blackbeard\" Teach captured La Concorde, a massive French ship used to transport enslaved people. He refitted the Concorde, mounting 40 cannons on board and renaming her Queen Anne's Revenge. In 1718, the Queen Anne's Revenge ran aground and was abandoned. In 1996 searchers found a sunken ship they believe to be the Queen Anne's Revenge in the waters off of North Carolina.",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
+    },
+    {
+      "ship_name": "Royal Fortune",
+      "captain": "Bartholomew \"Black Bart\" Roberts",
+      "blurb": "Bartholomew \"Black Bart\" Roberts went through several flagships during this time, and he tended to name them all Royal Fortune. The largest Royal Fortune was a 40-cannon behemoth manned by 157 men and it could slug it out with any Royal Navy ship of the time. Roberts was aboard this ​Royal Fortune when he was killed in battle against the Swallow in February 1722.",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
+    },
+    {
+      "ship_name": "Adventure Galley",
+      "captain": "William Kidd",
+      "blurb": "Captained by Scottish sailor William Kidd, the 287-ton, three-mast Adventure Galley was launched  in 1695 as part of a venture to curb attacks against British ships in the East Indies. When finding pirates proved too difficult, he resorted to attacking allied ships. Kidd abandoned the Adventure Galley, which had developed a rotten hull, off the coast of Madagascar in 1698. He hoped to receive a pardon from Livingston in New York, but was returned to London, found guilty of piracy, and executed in 1701.",
+      "source": "https://www.mentalfloss.com/article/21557/6-famous-pirate-ships"
+    },
+    {
+      "ship_name": "Whydah",
+      "captain": "\"Black Sam\" Bellamy",
+      "blurb": "In February 1717, pirate Sam Bellamy captured the Whydah (or Whydah Gally), a large British ship used to transport enslaved people. He was able to mount 28 cannons on her and for a short while terrorized Atlantic shipping lanes. The pirate Whydah did not last long, however: it was caught up in a horrendous storm off of Cape Cod in April 1717, barely two months after Bellamy first captured her. The wreck of the Whydah was discovered in 1984.",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
+    },
+    {
+      "ship_name": "Fancy",
+      "captain": "Henry Avery",
+      "blurb": "Henry Avery, who was a one-time Royal Navy midshipman, organized a successful mutiny while stationed aboard the privateer Charles II along the coast of Spain in 1694.  This takeover set his short-lived occupation as a pirate in motion, renaming the ship the Fancy and setting out with his crew in search of fortune, which they amassed working primarily in the Indian Ocean.  They headed to the Bahamas in late 1695 with an immense fortune to retire early, where they were granted refuge in exchange for treasure.",
+      "source": "https://www.pirateshowcancun.com/blog/scurvy-pirate-history/famous-pirate-ships-in-history/"
+    },
+    {
+      "ship_name": "The Golden Hind",
+      "captain": "Sir Francis Drake",
+      "blurb": "The Golden Hind captained by Sir Francis Drake was one of the most famous ships in sailing history. The Golden Hind was galleon armed with 18 guns of various sizes and weighing about 100 tons. This flagship was originally known as the Pelican but Drake renamed her to \"Golden Hind\" during voyage in 1577 after Drake already lost two ships. The length of The Golden Hind voyage was 2 years, 10 months, and 18 days.",
+      "source": "http://www.thewayofthepirates.com/pirate-features/famous-pirate-ships/"
+    },
+    {
+      "ship_name": "Revenge",
+      "captain": "Stede Bonnet",
+      "blurb": "Major Stede Bonnet was a most unlikely pirate. He was a wealthy plantation owner from Barbados with a wife and family when suddenly, at about the age of 30, he decided to become a pirate. In 1717 he outfitted a ten-gun sloop he named the Revenge. Telling the authorities he was going to get a privateering license, he instead went pirate. After losing a battle, the Revenge met up with Blackbeard, who used it for a while as Bonnet \"rested.\" Betrayed by Blackbeard, Bonnet was captured in battle and executed on December 10, 1718.",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
+    },
+    {
+      "ship_name": "The Black Pearl",
+      "captain": "Captain Jack Sparrow",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "https://en.wikipedia.org/wiki/Black_Pearl"
+    }
+  ]
+}
